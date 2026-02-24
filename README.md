@@ -118,7 +118,7 @@ The GAN successfully learned the overall structure of the transformed distributi
 
 ## PDF Comparison Plot
 
-![PDF Comparison](outputs/pdf_plot.png)
+![PDF Comparison](pdf_plot.png)
 
 ---
 
